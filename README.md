@@ -5,3 +5,5 @@
 This repository contains an introduction to working with data sets in R,
 and especially emphasizes the role of a suite of tools calle the
 `tidyverse`.
+
+You can also [browse the documentation here on GitHub](https://github.com/gilligan-ees-3310-2020/lab-02-documentation/blob/master/lab_02_documentation.md)
